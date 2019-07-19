@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Johns Creek Computer Science
-image: /img/schenkbanner3.png
+image: /img/firstsoloschenk04_half_size_banner.png
 heading: Welcome to Class!
 subheading: Creating Tomorrow's Programmers Today
 mainpitch:
