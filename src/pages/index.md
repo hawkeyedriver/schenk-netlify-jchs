@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Johns Creek Computer Science
-image: /img/final.jpg
+image: /img/oct19_45.jpg
 heading: Welcome to Class!
 subheading: Creating Tomorrow's Programmers Today
 mainpitch:
