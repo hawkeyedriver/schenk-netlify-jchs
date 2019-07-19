@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Johns Creek Computer Science
 image: /img/final.jpg
-heading: Great coffee with a conscience
+heading: Welcome to Class!
 subheading: Creating Tomorrow's Programmers Today
 mainpitch:
-  title: Why Kaldi
+  title: Professional Coding Starts Here
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
