@@ -52,7 +52,7 @@ intro:
         development paradigm.  We do not skip over abstract classes and
         interfaces, we embrace them.  Students prepare for the exam in the
         Spring, and create master projects capping their pathway journey.
-    - image: /img/hawkeye.jpg
+    - image: /img/buckeye2.jpg
       text: >-
         Just when it couldn't get any better, we made it better.  Johns Creek is
         now offering a fourth-year course called Embedded Programming.  Senior
