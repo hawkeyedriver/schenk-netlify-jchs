@@ -6,16 +6,19 @@ heading: Welcome to Class!
 subheading: Creating Tomorrow's Programmers Today
 mainpitch:
   title: Professional Coding Starts Here
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >-
+    Johns Creek Computer Science Students learn comprehensive skills required in
+    today's rapidly-advancing technology marketplace.  Our ground-up learning
+    not just theory, it harnesses critical employability skills needed to be
+    successful.  We focus on a hands-on project-based pedagogy that motivates
+    students to succeed either in their post-secondary education or as direct
+    entrants into the marketplace.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Eligible students can now complete TWO(!) pathways with the successful
+  completion of four years in this program.  Careful planning and hard work can
+  result in a significant programming achievements.  Be aware of the pathway
+  requirements and pre-requisites so that you have the most opportunity to
+  complete the program.
 intro:
   blurbs:
     - image: /img/coffee.png
