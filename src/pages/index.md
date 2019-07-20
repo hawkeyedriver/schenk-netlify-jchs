@@ -21,26 +21,37 @@ description: >-
   complete the program.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/rayschenk10april87aocscommissioning07oath.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Introduction to Digital Technology (IDT) is where students begin.  This
+        is where  commitment matters the most - because this course is not your
+        average IDT.  At Johns Creek we are preparing students for the Harvard
+        CS50 AP curriculum should they advance to AP Computer Science
+        Principles.  This first course provides critical foundations for
+        everything that follows in the program.  It is competitive because
+        advancing seats are assigned based on performance and dedication.
+    - image: /img/cs50.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Successful IDT students progress to Harvard's CS50 AP.  This course is a
+        highly regarded and world-wide implemented curriculum that is a
+        pre-approved drop-in for AP Computer Science Principles.  Since its
+        inception, CS50 AP students at Johns Creek have typically dominated the
+        AP exam at the end of the year, and covered far more ground that the
+        baseline college board curriculum.  Completing this course successfully
+        prepares our students for APCS-A, the traditional end-of-pathway
+        course. 
+    - image: /img/schenk_buckeye03mispelledmask.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        APCS-A is all about object-oriented programming.  While the college
+        board recently gutted some important aspects of the curriculum, and the
+        AP test remains more of a mathematics exam, we focus on the theoretical
+        computer science and programming aspects of the curriculum, because that
+        is what colleges are seeking in their undergrads.  We will go
+        significantly beyond the AP curriculum, to include graphical user
+        interface work as well as database connectivity, including the MVC
+        development paradigm.  We do not skip over abstract classes and
+        interfaces, we embrace them.  Students prepare for the exam in the
+        Spring, and create master projects capping their pathway journey.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
