@@ -52,13 +52,15 @@ intro:
         development paradigm.  We do not skip over abstract classes and
         interfaces, we embrace them.  Students prepare for the exam in the
         Spring, and create master projects capping their pathway journey.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/hawkeye.jpg
+      text: >-
+        Just when it couldn't get any better, we made it better.  Johns Creek is
+        now offering a fourth-year course called Embedded Programming.  Senior
+        pathway completers can now earn a 2nd pathway completion because this
+        pathway has the same prerequisites as APCS-A.  This course is a
+        project-based dive into embedded systems programming and robotics.  We
+        blur the lines between computer science and engineering, and have fun
+        doing so!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
