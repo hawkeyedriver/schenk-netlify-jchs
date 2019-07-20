@@ -16,7 +16,7 @@ mainpitch:
 description: >-
   Eligible students can now complete TWO(!) pathways with the successful
   completion of four years in this program.  Careful planning and hard work can
-  result in a significant programming achievements.  Be aware of the pathway
+  result in significant programming achievements.  Be aware of the pathway
   requirements and pre-requisites so that you have the most opportunity to
   complete the program.
 intro:
@@ -59,8 +59,8 @@ intro:
         pathway completers can now earn a 2nd pathway completion because this
         pathway has the same prerequisites as APCS-A.  This course is a
         project-based dive into embedded systems programming and robotics.  We
-        blur the lines between computer science and engineering, and have fun
-        doing so!
+        blur the lines between computer science and engineering, just like
+        industry today!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
