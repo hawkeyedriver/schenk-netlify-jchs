@@ -22,7 +22,7 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `top center`,
         backgroundAttachment: `fixed`,
       }}
     >
@@ -58,7 +58,7 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
-            alignContent : 'center'
+            textAlign : 'center'
           }}
         >
           {subheading}
